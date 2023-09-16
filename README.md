@@ -1,6 +1,4 @@
-# Hi there 👋
-
-
+![Alt text](image.png)
 
 Here are some ideas to get you started:
 
