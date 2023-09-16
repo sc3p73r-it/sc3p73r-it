@@ -1,6 +1,10 @@
 ![Alt text](image.png)
 
-Here are some ideas to get you started:
+About Me 
+💼 System Engineer
+
+💬 Ask me about anything here
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
