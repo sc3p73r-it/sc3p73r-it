@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I have been working experience in areas of system administration, design, implementation & support of Windows Server Systems, Linux, Container and networking.
+I have been working experience in areas of SysOps, System design, Linux, Containers and networking.
 
 
 ## 🌐 Socials:
