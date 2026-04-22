@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I have been working experience in areas of system administration, design, implementation & support of Windows Server Systems, Linux, Container and networking.
 
 
 ## 🌐 Socials:
