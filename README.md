@@ -52,16 +52,21 @@ open_source: true
 ### 🐧 Systems & Containers
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### ⚙️ IaC & CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🔧 Tooling & Workflow
-![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
@@ -74,7 +79,10 @@ open_source: true
 |---|---|
 | **Linux & Systems** | Kernel tuning, systemd, process management, filesystem, performance profiling |
 | **Networking** | TCP/IP, DNS, firewalling (iptables/nftables), VPN, reverse proxying, CDN |
-| **Containers** | Docker, image layering, compose orchestration, networking, volume management |
+| **Containers** | Docker, image layering, Compose orchestration, networking, volume management |
+| **Kubernetes** | Cluster operations, workload management, Helm, RBAC, ingress, resource policies |
+| **IaC** | Terraform — module design, state management, remote backends, drift detection |
+| **CI/CD** | GitLab CI pipelines, stages/jobs, artifacts, environments, registry integration |
 | **Web Servers** | Nginx/Apache config, TLS hardening, load balancing, caching strategies |
 | **Cloud** | EC2/VPC/S3/IAM (AWS), resource management across DigitalOcean & Azure |
 | **Databases** | PostgreSQL & MySQL administration, replication, backup/recovery |
@@ -103,7 +111,7 @@ open_source: true
 
 ## 📝 Latest Writing
 
-> I write about Linux internals, container patterns, and practical DevOps on [blog.waiyan.dev](https://blog.waiyan.dev/) and [Medium](https://medium.com/@dr3vm).
+> I write about Linux internals, container patterns, and practical DevOps on [blog.waiyan.dev](https://blog.waiyan.dev/) and [Hashnode](https://blog.vitaltechmyanmar.com).
 
 _Check the blogs for the latest posts — topics include system reliability, networking deep-dives, and container war stories._
 
@@ -111,7 +119,7 @@ _Check the blogs for the latest posts — topics include system reliability, net
 
 ## 🤝 Open to
 
-- 💬 Discussions on Linux, containers, networking, and cloud infra
+- 💬 Discussions on Linux, containers, Kubernetes, and cloud infra
 - 🔍 Reviewing or collaborating on open-source DevOps tooling
 - 📬 Reach out via [LinkedIn](https://linkedin.com/in/sc3p73r) or open an issue/discussion on any of my repos
 
