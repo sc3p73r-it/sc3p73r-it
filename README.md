@@ -11,7 +11,7 @@
 
 # Wai Yan — `sc3p73r`
 
-**System & DevOps Engineer** · Singapore 🇸🇬
+**System & DevOps Engineer**
 
 _Infrastructure that scales. Systems that breathe. Ops that don't wake you up at 3am._
 
