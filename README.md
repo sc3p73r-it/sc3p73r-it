@@ -29,7 +29,6 @@ _Infrastructure that scales. Systems that breathe. Ops that don't wake you up at
 ```yaml
 name: Wai Yan (sc3p73r)
 role: System & DevOps Engineer
-location: Singapore
 focus:
   - Cloud-native infrastructure design
   - Container orchestration & Linux systems
