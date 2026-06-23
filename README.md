@@ -111,7 +111,7 @@ open_source: true
 
 ## 📝 Latest Writing
 
-> I write about Linux internals, container patterns, and practical DevOps on [blog.waiyan.dev](https://blog.waiyan.dev/) and [Hashnode](https://blog.vitaltechmyanmar.com).
+> I write about Linux internals, container patterns, and practical DevOps on  [Vital Tech Blog](https://blog.vitaltechmyanmar.com).
 
 _Check the blogs for the latest posts — topics include system reliability, networking deep-dives, and container war stories._
 
